@@ -3,6 +3,8 @@ name: chill
 description: Interrupt forward momentum and step back to reassess
 user-invocable: true
 argument-hint: "[what's wrong]"
+version: 1
+disable-model-invocation: false
 ---
 
 # Chill - Step Back and Regroup
@@ -89,7 +91,7 @@ Don't immediately continue. Let the user redirect.
 **Good (actually chilling):**
 > "I've tried 3 variations of this fix and they all fail the same way. 
 > I think I'm missing something about how the event system propagates. 
-. What should I understand better here?"
+> What should I understand better here?"
 
 **Bad (fake chilling):**
 > "Let me step back. 

@@ -1,3 +1,5 @@
 {
-  "name": "chill"
+  "name": "chill",
+  "version": "0.1.0",
+  "description": "Interrupt forward momentum and step back to reassess"
 }
